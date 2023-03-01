@@ -27,12 +27,12 @@ h5{
 }
 
 body{
-    background-color:rgb(252, 248, 245);
+    background-color:rgb(165, 218, 235);
 }
 
 header{
     margin-left: 15px;
-    background-color: rgb(182, 100, 32);
+    background-color: rgb(32, 80, 182);
 }
 
 aside{
@@ -45,16 +45,18 @@ aside{
     border-radius: 10px;
     float: left;
     font-style: italic;
-    background-color: rgb(122, 182, 152);
+    background-color: rgb(12, 26, 19);
 }
 
 #Perfil{
-    padding-right: 10px;
+    padding-right: 15px;
+    border-radius: 100%;
+    width: 100%;
 }
 
 footer {
     text-align:center;
-    background-color: rgb(182, 100, 32);
+    background-color: rgb(32, 80, 182);
     color: white;
     margin: 15px;
     padding: auto;
